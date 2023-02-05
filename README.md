@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varospaxo
+- 👋 Hi, I’m [@varospaxo](https://github.com/varospaxo)
 - 👀 I’m interested in Cyber Security / Ethical Hacking
 - 🌱 I’m currently pursuing Bachelor's Degree in Information Technology
 - 📫 You can reach me on my social media accounts [here](https://linktr.ee/vedantfar).<br>
