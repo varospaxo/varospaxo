@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varospaxo&label=Profile%20views&color=blue&style=flat-square" alt="varospaxo" /> </p>
 - 👋 Hi, I’m [@varospaxo](https://github.com/varospaxo)
 - 👀 I’m interested in Cyber Security / Ethical Hacking
 - 🌱 I’m currently pursuing Bachelor's Degree in Information Technology
