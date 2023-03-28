@@ -6,9 +6,9 @@
 - 🌱 I’m currently pursuing Bachelor's Degree in Information Technology</br>
 - 📫 You can reach me on my social media accounts <a href="https://linktr.ee/vedantfar">here</a>.</p></br></br>
 
-! <p align=left><img align="center" src="https://github-readme-stats.vercel.app/api?username=varospaxo&show_icons=true&locale=en&theme=transparent" alt="varospaxo" /></p>
+-- <p align=left><img align="center" src="https://github-readme-stats.vercel.app/api?username=varospaxo&show_icons=true&locale=en&theme=transparent" alt="varospaxo" /></p>
 
-! <p align=left><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varospaxo&layout=compact&hide=html&theme=transparent" alt="varospaxo" /></p>
+-- <p align=left><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varospaxo&layout=compact&hide=html&theme=transparent" alt="varospaxo" /></p>
 
 
 <!---
