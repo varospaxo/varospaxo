@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vedant Farkade aka Varospaxo</h1>
+<h1 align="center">Hi <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" alt="error loading image" height="45" width="45">, I'm Vedant Farkade aka Varospaxo</h1>
 <h3 align="center">B.E. Information Technology Student at University of Mumbai</h3></br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varospaxo&label=Profile%20views&color=blue&style=flat-square" alt="varospaxo" /> </p>
 <p>- 👋 Hi, I’m <a href="https://github.com/varospaxo/">Varospaxo</a></br>
