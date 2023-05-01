@@ -4,7 +4,8 @@
 - 👀 I’m interested in Cyber Security / Ethical Hacking</br>
 - 🌱 I’m currently pursuing Bachelor's Degree in Information Technology</br>
 - 📫 You can reach me on my social media accounts <a href="https://linktr.ee/vedantfar">here</a>.</p></br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varospaxo&label=Profile%20views&color=blue&style=flat-square" alt="varospaxo" /> </p>
+
+<a href="https://github.com/varospaxo/"><img src="https://komarev.com/ghpvc/?username=varospaxo&label=Profile%20views&color=blue&style=flat-square" alt="varospaxo" /></a>
 <p align="left"> <a href="https://www.linkedin.com/in/vedantfar" target="blank"><img src="https://img.shields.io/badge/Connect With Vedant-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="vedantfar" /></a> </p>
 <!-- <p align=left><img align="center" src="https://github-readme-stats.vercel.app/api?username=varospaxo&show_icons=true&locale=en&theme=transparent" alt="varospaxo" /></p> -->
 
