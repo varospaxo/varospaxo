@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" alt="error loading image" height="45" width="45">, I'm Vedant Farkade aka Varospaxo</h1>
-<h3 align="center">B.E. Information Technology Student at University of Mumbai</h3></br></br>
+<h3 align="center">B.E. Information Technology</h3></br></br>
 <p>- 👋 Hi, I’m <a href="https://github.com/varospaxo/">Varospaxo</a></br>
 - 👀 I’m interested in Cyber Security / Ethical Hacking</br>
 - 🌱 I’m currently pursuing Bachelor's Degree in Information Technology</br>
